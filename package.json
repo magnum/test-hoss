@@ -1,0 +1,19 @@
+{
+  "name": "test-hoss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/magnum/test-hoss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magnum/test-hoss/issues"
+  },
+  "homepage": "https://github.com/magnum/test-hoss#readme"
+}
